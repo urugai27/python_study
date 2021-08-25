@@ -1,0 +1,411 @@
+ ドライブ C のボリューム ラベルは OS です
+ ボリューム シリアル番号は 1045-7DEA です
+
+ C:\Users\ATHUSHI\Desktop\HTML のディレクトリ
+
+2021/08/07  15:14    <DIR>          .
+2021/08/07  15:14    <DIR>          ..
+2021/08/07  15:19    <DIR>          .git
+2021/08/02  09:31    <DIR>          audio
+2021/06/24  13:42    <DIR>          back_log
+2021/08/07  09:56    <DIR>          css
+2021/06/24  13:42    <DIR>          hash
+2021/08/23  16:21    <DIR>          image
+2021/08/23  16:21    <DIR>          link
+2021/08/23  16:25    <DIR>          make
+2021/08/23  16:21    <DIR>          Reimage
+2021/06/24  13:42    <DIR>          Undo
+2021/08/01  14:35    <DIR>          動画圧縮
+2021/06/24  14:00    <DIR>          画像圧縮
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git のディレクトリ
+
+2021/08/07  15:19    <DIR>          .
+2021/08/07  15:19    <DIR>          ..
+2021/06/24  13:34    <DIR>          hooks
+2021/06/24  13:34    <DIR>          info
+2021/06/24  13:35    <DIR>          logs
+2021/08/07  15:19    <DIR>          objects
+2021/06/24  13:35    <DIR>          refs
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\hooks のディレクトリ
+
+2021/06/24  13:34    <DIR>          .
+2021/06/24  13:34    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\info のディレクトリ
+
+2021/06/24  13:34    <DIR>          .
+2021/06/24  13:34    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\logs のディレクトリ
+
+2021/06/24  13:35    <DIR>          .
+2021/06/24  13:35    <DIR>          ..
+2021/06/24  13:35    <DIR>          refs
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\logs\refs のディレクトリ
+
+2021/06/24  13:35    <DIR>          .
+2021/06/24  13:35    <DIR>          ..
+2021/06/24  13:35    <DIR>          heads
+2021/06/24  13:35    <DIR>          remotes
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\logs\refs\heads のディレクトリ
+
+2021/06/24  13:35    <DIR>          .
+2021/06/24  13:35    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\logs\refs\remotes のディレクトリ
+
+2021/06/24  13:35    <DIR>          .
+2021/06/24  13:35    <DIR>          ..
+2021/06/24  14:02    <DIR>          origin
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\logs\refs\remotes\origin のディレクトリ
+
+2021/06/24  14:02    <DIR>          .
+2021/06/24  14:02    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects のディレクトリ
+
+2021/08/07  15:19    <DIR>          .
+2021/08/07  15:19    <DIR>          ..
+2021/06/24  13:53    <DIR>          00
+2021/07/02  22:28    <DIR>          02
+2021/06/25  08:00    <DIR>          05
+2021/06/24  13:53    <DIR>          13
+2021/06/24  13:58    <DIR>          1c
+2021/08/07  15:19    <DIR>          26
+2021/06/24  13:58    <DIR>          28
+2021/07/02  22:29    <DIR>          29
+2021/06/24  13:53    <DIR>          34
+2021/06/24  13:57    <DIR>          3e
+2021/06/25  07:59    <DIR>          3f
+2021/07/02  22:29    <DIR>          42
+2021/06/24  13:53    <DIR>          55
+2021/06/25  08:00    <DIR>          70
+2021/06/25  08:00    <DIR>          76
+2021/08/07  15:17    <DIR>          8f
+2021/06/24  13:53    <DIR>          94
+2021/08/07  15:18    <DIR>          9b
+2021/06/24  13:53    <DIR>          9c
+2021/06/24  13:53    <DIR>          a3
+2021/08/07  15:19    <DIR>          bb
+2021/08/07  15:17    <DIR>          c5
+2021/08/07  15:19    <DIR>          cb
+2021/06/24  13:53    <DIR>          eb
+2021/06/24  13:53    <DIR>          f4
+2021/06/24  13:34    <DIR>          info
+2021/06/24  13:35    <DIR>          pack
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\00 のディレクトリ
+
+2021/06/24  13:53    <DIR>          .
+2021/06/24  13:53    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\02 のディレクトリ
+
+2021/07/02  22:28    <DIR>          .
+2021/07/02  22:28    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\05 のディレクトリ
+
+2021/06/25  08:00    <DIR>          .
+2021/06/25  08:00    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\13 のディレクトリ
+
+2021/06/24  13:53    <DIR>          .
+2021/06/24  13:53    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\1c のディレクトリ
+
+2021/06/24  13:58    <DIR>          .
+2021/06/24  13:58    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\26 のディレクトリ
+
+2021/08/07  15:19    <DIR>          .
+2021/08/07  15:19    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\28 のディレクトリ
+
+2021/06/24  13:58    <DIR>          .
+2021/06/24  13:58    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\29 のディレクトリ
+
+2021/07/02  22:29    <DIR>          .
+2021/07/02  22:29    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\34 のディレクトリ
+
+2021/06/24  13:53    <DIR>          .
+2021/06/24  13:53    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\3e のディレクトリ
+
+2021/06/24  13:57    <DIR>          .
+2021/06/24  13:57    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\3f のディレクトリ
+
+2021/06/25  07:59    <DIR>          .
+2021/06/25  07:59    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\42 のディレクトリ
+
+2021/07/02  22:29    <DIR>          .
+2021/07/02  22:29    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\55 のディレクトリ
+
+2021/06/24  13:53    <DIR>          .
+2021/06/24  13:53    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\70 のディレクトリ
+
+2021/06/25  08:00    <DIR>          .
+2021/06/25  08:00    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\76 のディレクトリ
+
+2021/06/25  08:00    <DIR>          .
+2021/06/25  08:00    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\8f のディレクトリ
+
+2021/08/07  15:17    <DIR>          .
+2021/08/07  15:17    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\94 のディレクトリ
+
+2021/06/24  13:53    <DIR>          .
+2021/06/24  13:53    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\9b のディレクトリ
+
+2021/08/07  15:18    <DIR>          .
+2021/08/07  15:18    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\9c のディレクトリ
+
+2021/06/24  13:53    <DIR>          .
+2021/06/24  13:53    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\a3 のディレクトリ
+
+2021/06/24  13:53    <DIR>          .
+2021/06/24  13:53    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\bb のディレクトリ
+
+2021/08/07  15:19    <DIR>          .
+2021/08/07  15:19    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\c5 のディレクトリ
+
+2021/08/07  15:17    <DIR>          .
+2021/08/07  15:17    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\cb のディレクトリ
+
+2021/08/07  15:19    <DIR>          .
+2021/08/07  15:19    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\eb のディレクトリ
+
+2021/06/24  13:53    <DIR>          .
+2021/06/24  13:53    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\f4 のディレクトリ
+
+2021/06/24  13:53    <DIR>          .
+2021/06/24  13:53    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\info のディレクトリ
+
+2021/06/24  13:34    <DIR>          .
+2021/06/24  13:34    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\objects\pack のディレクトリ
+
+2021/06/24  13:35    <DIR>          .
+2021/06/24  13:35    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\refs のディレクトリ
+
+2021/06/24  13:35    <DIR>          .
+2021/06/24  13:35    <DIR>          ..
+2021/08/07  15:19    <DIR>          heads
+2021/06/24  13:35    <DIR>          remotes
+2021/06/24  13:34    <DIR>          tags
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\refs\heads のディレクトリ
+
+2021/08/07  15:19    <DIR>          .
+2021/08/07  15:19    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\refs\remotes のディレクトリ
+
+2021/06/24  13:35    <DIR>          .
+2021/06/24  13:35    <DIR>          ..
+2021/08/07  15:19    <DIR>          origin
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\refs\remotes\origin のディレクトリ
+
+2021/08/07  15:19    <DIR>          .
+2021/08/07  15:19    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\.git\refs\tags のディレクトリ
+
+2021/06/24  13:34    <DIR>          .
+2021/06/24  13:34    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\audio のディレクトリ
+
+2021/08/02  09:31    <DIR>          .
+2021/08/02  09:31    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\back_log のディレクトリ
+
+2021/06/24  13:42    <DIR>          .
+2021/06/24  13:42    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\css のディレクトリ
+
+2021/08/07  09:56    <DIR>          .
+2021/08/07  09:56    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\hash のディレクトリ
+
+2021/06/24  13:42    <DIR>          .
+2021/06/24  13:42    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\image のディレクトリ
+
+2021/08/23  16:21    <DIR>          .
+2021/08/23  16:21    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\link のディレクトリ
+
+2021/08/23  16:21    <DIR>          .
+2021/08/23  16:21    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\make のディレクトリ
+
+2021/08/23  16:25    <DIR>          .
+2021/08/23  16:25    <DIR>          ..
+2021/06/24  13:42    <DIR>          api_back
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\make\api_back のディレクトリ
+
+2021/06/24  13:42    <DIR>          .
+2021/06/24  13:42    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\Reimage のディレクトリ
+
+2021/08/23  16:21    <DIR>          .
+2021/08/23  16:21    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\Undo のディレクトリ
+
+2021/06/24  13:42    <DIR>          .
+2021/06/24  13:42    <DIR>          ..
+2021/06/24  13:42    <DIR>          変換入力用_past
+2021/06/24  13:42    <DIR>          変更前のpast_html
+2021/06/24  13:42    <DIR>          開発ログ
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\Undo\変換入力用_past のディレクトリ
+
+2021/06/24  13:42    <DIR>          .
+2021/06/24  13:42    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\Undo\変更前のpast_html のディレクトリ
+
+2021/06/24  13:42    <DIR>          .
+2021/06/24  13:42    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\Undo\開発ログ のディレクトリ
+
+2021/06/24  13:42    <DIR>          .
+2021/06/24  13:42    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\動画圧縮 のディレクトリ
+
+2021/08/01  14:35    <DIR>          .
+2021/08/01  14:35    <DIR>          ..
+2021/06/24  13:42    <DIR>          back
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\動画圧縮\back のディレクトリ
+
+2021/06/24  13:42    <DIR>          .
+2021/06/24  13:42    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\ATHUSHI\Desktop\HTML\画像圧縮 のディレクトリ
+
+2021/06/24  14:00    <DIR>          .
+2021/06/24  14:00    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+     ファイルの総数:
+               0 個のファイル                   0 バイト
+             173 個のディレクトリ  43,469,393,920 バイトの空き領域
